@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arxticmedia" alt="arxticmedia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/legacy_arxtic99" target="blank"><img src="https://img.shields.io/twitter/follow/legacy_arxtic99?logo=twitter&style=for-the-badge" alt="legacy_arxtic99" /></a> </p>
+<p align="left"> <a href="https://twitter.com/frostydev0999" target="blank"><img src="https://img.shields.io/twitter/follow/frostydev0999?logo=twitter&style=for-the-badge" alt="frostydev0999" /></a> </p>
 
 - 🔭 I’m currently working on [Legacy Hosting](https://legacyhosting.pro/)
 
