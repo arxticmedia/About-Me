@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arxtic</h1>
+<h1 align="center">Hi 👋, I'm Frosty</h1>
 <h3 align="center">A young developer working on basic projects and a hosting company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arxticmedia&label=Profile%20views&color=0e75b6&style=flat" alt="arxticmedia" /> </p>
@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **DirectAdmin, Pterodactyl**
 
-- 📫 How to reach me **brenton@legacyhosting.pro**
+- 📫 How to reach me **frostydev0999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/legacy_arxtic99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="legacy_arxtic99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arxticyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arxticyt" height="30" width="40" /></a>
-<a href="https://discord.gg/legacyhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="legacyhost" height="30" width="40" /></a>
+<a href="https://twitter.com/frostydev0999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frostydev0999" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/arxticyt](https://www.youtube.com/@frosty0999)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arxticyt" height="30" width="40" /></a>
+<a href="https://discord.gg/DjXaMm7YSP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="legacyhost" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
