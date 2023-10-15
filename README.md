@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frosty</h1>
 <h3 align="center">A young developer working on basic projects and a hosting company.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arxticmedia&label=Profile%20views&color=0e75b6&style=flat" alt="arxticmedia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frosty0999&label=Profile%20views&color=0e75b6&style=flat" alt="frosty0999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arxticmedia" alt="arxticmedia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frosty0999" alt="arxticmedia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/frostydev0999" target="blank"><img src="https://img.shields.io/twitter/follow/frostydev0999?logo=twitter&style=for-the-badge" alt="frostydev0999" /></a> </p>
 
