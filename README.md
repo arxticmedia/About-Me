@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/frostydev0999" target="blank"><img src="https://img.shields.io/twitter/follow/frostydev0999?logo=twitter&style=for-the-badge" alt="frostydev0999" /></a> </p>
 
-- 🔭 I’m currently working on [Legacy Hosting](https://legacyhosting.pro/)
+- 🔭 I’m currently working on [Frostbite Hosting](https://frostbite.host/)
 
 - 🌱 I’m currently learning **LUA, HTML**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frostydev0999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frostydev0999" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/@frosty0999](https://www.youtube.com/@frosty0999)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arxticyt" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/@frosty0999](https://www.youtube.com/@frosty0999)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frosty" height="30" width="40" /></a>
 <a href="https://discord.gg/DjXaMm7YSP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="legacyhost" height="30" width="40" /></a>
 </p>
 
