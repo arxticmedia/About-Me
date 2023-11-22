@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/frostydev0999" target="blank"><img src="https://img.shields.io/twitter/follow/frostydev0999?logo=twitter&style=for-the-badge" alt="frostydev0999" /></a> </p>
 
-- 🔭 I’m currently working on [Frostbite Hosting](https://frostbite.host/)
+- 🔭 I’m currently working on [Nothing atm]()
 
 - 🌱 I’m currently learning **LUA, HTML**
 
 - 💬 Ask me about **DirectAdmin, Pterodactyl**
 
-- 📫 How to reach me **frostydev0999@gmail.com**
+- 📫 How to reach me **me@frostydev.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
